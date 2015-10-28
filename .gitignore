@@ -1,0 +1,3 @@
+certcheck
+*.crt
+*.key
